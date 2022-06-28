@@ -1,3 +1,3 @@
-# Python-for-Data-Science
+# Data Science Dictionary
 
 Reference notebooks for useful code used in data science
